@@ -5,13 +5,13 @@
 
 
 
-- 🔭 I’m currently working on **OpenCV**
+- 🔭 I’m currently working on **Autonomous Mobile Robot**
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **ROS2**
 
-- 💬 Ask me about **Computer Vision, OpenCV and Robotics**
+- 💬 Ask me about **ROS, OpenCV and Robotics**
 
-- 📫 How to reach me **rasalvaibhavsanjay@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/vaibhav-rasal-735350216/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

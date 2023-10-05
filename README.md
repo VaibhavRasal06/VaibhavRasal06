@@ -1,4 +1,4 @@
-"C:\Users\Admin\Desktop\3q63.gif"
+
 <h1 align="center">Hi 👋, I'm Vaibhav Rasal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavrasal06&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavrasal06" /> </p>
 

@@ -1,5 +1,4 @@
-![alt text](https://media.licdn.com/dms/image/D5616AQFnyhPeFDSDPg/profile-displaybackgroundimage-shrink_350_1400/0/1672717600706?e=1685577600&v=beta&t=CoHbGMxNC2EviIQlW3DHS55WM9O9w0h-vH4UXxsLPQU "Banner Img")
-
+"C:\Users\Admin\Desktop\3q63.gif"
 <h1 align="center">Hi 👋, I'm Vaibhav Rasal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavrasal06&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavrasal06" /> </p>
 
